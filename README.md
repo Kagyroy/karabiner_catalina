@@ -1,2 +1,2 @@
 # karabiner_catalina
-202004月にcatalinaの設定から開始したKarabiner設定
+2020/04/12 Mac OS　Catalinaで動作確認済みのKarabiner設定

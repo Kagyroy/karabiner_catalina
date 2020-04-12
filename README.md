@@ -1,0 +1,2 @@
+# karabiner_catalina
+202004月にcatalinaの設定から開始したKarabiner設定

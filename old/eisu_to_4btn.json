@@ -1,0 +1,26 @@
+{
+  "title": "eisu_to_4btn",
+  "rules": [
+    {
+      "description": "eisu_to_4btn",
+      "manipulators": [
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "japanese_eisuu"
+          },
+          "to": [
+            {
+              "key_code": "left_control",
+              "modifiers": [
+                "right_option",
+                "right_command",
+                "right_shift"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{  "title": "kawamura created",
+    "rules": [
+  {
+    "description": "ctrl+semicolonでEnter",
+    "manipulators": [
+      {
+        "type": "basic",
+        "from": {
+          "key_code": "semicolon",
+          "modifiers": {
+            "mandatory": [ "control" ]
+          }
+        },
+        "to": [
+          { "key_code": "return_or_enter" }
+        ]
+      }
+    ]
+  }
+]
+}
